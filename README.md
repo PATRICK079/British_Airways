@@ -1,6 +1,6 @@
 # ✈️ British Airways Data Science Job Simulation
 
-This repository contains my completed work for the British Airways Data Science Job Simulation hosted on Forage. The project involved web scraping, data analysis, feature engineering, model training, and presentation of findings—designed to simulate a real-world data science task at British Airways. kindly check your notebook for detailed explanation
+This repository contains my completed work for the British Airways Data Science Job Simulation hosted on Forage. The project involved web scraping, data analysis, feature engineering, model training, and presentation of findings—designed to simulate a real-world data science task at British Airways. kindly check my notebook for detailed explanation
 
 ---
 
