@@ -68,6 +68,7 @@ British Airways is seeking insights to improve customer satisfaction and predict
 ## 🛠️ Tools & Technologies
 
 - Python
+- langchain
 - BeautifulSoup
 - Pandas, NumPy
 - scikit-learn
